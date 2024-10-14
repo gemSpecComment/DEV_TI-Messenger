@@ -3,7 +3,7 @@ description: "Kommentare für Änderungsvoschläge der Industrie"
 title: "[Änderungsvorschlag]: "
 labels: ["Offen"]
 projects: ["gemSpecComment/116"]
-assignees: ["mwatzek"]
+assignees: ["thorschtn"]
 body:
   - type: markdown
     attributes:

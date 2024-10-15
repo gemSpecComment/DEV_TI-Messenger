@@ -2,7 +2,7 @@ name: Industriekommentare
 description: "Kommentare für Änderungsvoschläge der Industrie"
 title: "[Änderungsvorschlag]: "
 labels: ["Offen"]
-projects: ["gemSpecComment/116"]
+projects: ["gemSpecComment/Kommentierungsverfahren"]
 assignees: ["thorschtn"]
 body:
   - type: markdown
